@@ -1,11 +1,11 @@
-07:36:29.551 [io.github.oliviercailloux.plaquette_mido_soap.M1ApprBuilder.main()] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+07:53:31.297 [io.github.oliviercailloux.plaquette_mido_soap.M1ApprBuilder.main()] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Program xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>ident = 'PRA4AMIA-100'</predicate>
 </ns2:select_Program>
 .
-07:36:30.302 [io.github.oliviercailloux.plaquette_mido_soap.M1ApprBuilder.main()] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+07:53:32.153 [io.github.oliviercailloux.plaquette_mido_soap.M1ApprBuilder.main()] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_ProgramResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
