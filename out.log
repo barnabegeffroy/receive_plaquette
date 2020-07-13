@@ -1,14 +1,14 @@
-16:30:54.779 [main] INFO  i.g.o.creds_read.CredsReader - Found 0 piece of login information in properties.
-16:30:54.787 [main] INFO  i.g.o.creds_read.CredsReader - Found 2 pieces of login information in environment variables.
-16:30:54.790 [main] INFO  i.g.o.creds_read.CredsReader - Found 0 piece of login information in file.
-16:30:57.601 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:30:58.359 [main] INFO  i.g.o.creds_read.CredsReader - Found 0 piece of login information in properties.
+16:30:58.371 [main] INFO  i.g.o.creds_read.CredsReader - Found 2 pieces of login information in environment variables.
+16:30:58.375 [main] INFO  i.g.o.creds_read.CredsReader - Found 0 piece of login information in file.
+16:31:01.264 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Program xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>ident = 'PRA4AMIA-100'</predicate>
 </ns2:select_Program>
 .
-16:30:58.354 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:02.140 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_ProgramResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -91,14 +91,14 @@
     </data>
 </ns3:select_ProgramResponse>
 .
-16:30:58.373 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:02.163 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Program xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>programID = 'FRUAI0750736TPRCPA4AMIA-100-S1'</predicate>
 </ns2:select_Program>
 .
-16:30:58.592 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:02.419 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_ProgramResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -118,14 +118,14 @@
     </data>
 </ns3:select_ProgramResponse>
 .
-16:30:58.595 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:02.423 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Program xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>programID = 'FRUAI0750736TPRCPA4AMIA-100-S2'</predicate>
 </ns2:select_Program>
 .
-16:30:58.781 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:02.641 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_ProgramResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -145,14 +145,14 @@
     </data>
 </ns3:select_ProgramResponse>
 .
-16:30:58.898 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:02.738 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Program xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>programID = 'FRUAI0750736TPRCPA4AMIA-100-S1L1'</predicate>
 </ns2:select_Program>
 .
-16:30:59.078 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:02.931 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_ProgramResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -176,14 +176,14 @@
     </data>
 </ns3:select_ProgramResponse>
 .
-16:30:59.081 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:02.935 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C4'</predicate>
 </ns2:select_Course>
 .
-16:30:59.268 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.132 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -211,14 +211,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:30:59.349 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.227 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C2'</predicate>
 </ns2:select_Course>
 .
-16:30:59.513 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.418 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -246,14 +246,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:30:59.519 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.424 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C1'</predicate>
 </ns2:select_Course>
 .
-16:30:59.697 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.592 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -283,14 +283,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:30:59.702 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.596 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C5'</predicate>
 </ns2:select_Course>
 .
-16:30:59.872 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.755 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -315,14 +315,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:30:59.876 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.760 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C6'</predicate>
 </ns2:select_Course>
 .
-16:31:00.041 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.934 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -348,14 +348,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:00.043 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:03.951 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C8'</predicate>
 </ns2:select_Course>
 .
-16:31:00.202 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.122 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -395,14 +395,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:00.206 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.126 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Program xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>programID = 'FRUAI0750736TPRCPA4AMIAS1L2'</predicate>
 </ns2:select_Program>
 .
-16:31:00.370 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.295 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_ProgramResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -423,14 +423,14 @@
     </data>
 </ns3:select_ProgramResponse>
 .
-16:31:00.372 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.298 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C7'</predicate>
 </ns2:select_Course>
 .
-16:31:00.537 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.455 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -460,14 +460,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:00.541 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.459 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C3'</predicate>
 </ns2:select_Course>
 .
-16:31:00.696 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.629 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -509,14 +509,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:00.700 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.633 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S1L1C9'</predicate>
 </ns2:select_Course>
 .
-16:31:00.867 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.795 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -542,14 +542,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:00.870 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.798 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Program xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>programID = 'FRUAI0750736TPRCPA4AMIA-100-S2L1'</predicate>
 </ns2:select_Program>
 .
-16:31:01.024 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.984 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_ProgramResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -575,14 +575,14 @@
     </data>
 </ns3:select_ProgramResponse>
 .
-16:31:01.026 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:04.986 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S2L1C1'</predicate>
 </ns2:select_Course>
 .
-16:31:01.173 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.144 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -621,14 +621,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:01.183 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.149 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S2L1C4'</predicate>
 </ns2:select_Course>
 .
-16:31:01.345 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.310 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -653,14 +653,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:01.350 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.313 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S2L1C5'</predicate>
 </ns2:select_Course>
 .
-16:31:01.515 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.490 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -691,14 +691,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:01.521 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.498 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S2L1C6'</predicate>
 </ns2:select_Course>
 .
-16:31:01.677 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.660 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -719,14 +719,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:01.679 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.663 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S2L1C3'</predicate>
 </ns2:select_Course>
 .
-16:31:01.830 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.826 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -756,14 +756,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:01.833 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.832 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S2L1C2'</predicate>
 </ns2:select_Course>
 .
-16:31:01.983 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:05.999 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -789,14 +789,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:01.991 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:06.008 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S2L1C7'</predicate>
 </ns2:select_Course>
 .
-16:31:02.146 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:06.191 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
@@ -822,14 +822,14 @@
     </data>
 </ns3:select_CourseResponse>
 .
-16:31:02.150 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:06.195 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Request: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:select_Course xmlns:ns2="urn:ebx-schemas:dataservices_1.0">
     <branch>pvRefRof</branch>
     <instance>RefRof</instance>
     <predicate>courseID = 'FRUAI0750736TCOENA4AMIA-100-S2L1C8'</predicate>
 </ns2:select_Course>
 .
-16:31:02.294 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+16:31:06.369 [main] DEBUG i.g.o.plaquette_mido_soap.Querier - Result: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns3:select_CourseResponse xmlns:ns2="urn:ebx-schemas:deployment_1.0" xmlns:ns3="urn:ebx-schemas:dataservices_1.0">
     <data>
         <root>
